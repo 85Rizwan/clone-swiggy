@@ -1,0 +1,25 @@
+{
+  "name": "swiggy-clone",
+  "version": "1.0.0",
+  "description": "This is my  First Project",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/85Rizwan/Swiggy_Clone.git"
+  },
+  "keywords": [
+    "swiggy"
+  ],
+  "author": "Rizwan khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/85Rizwan/Swiggy_Clone/issues"
+  },
+  "homepage": "https://github.com/85Rizwan/Swiggy_Clone#readme",
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
